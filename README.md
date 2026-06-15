@@ -11,39 +11,39 @@ Corrected data inconsistencies
 Standardized formats (dates, text, and numerical values)
 Validated data accuracy and quality
 Organized the dataset for further analysis
-Tools Used
+## Tools Used
 Microsoft Excel
-Outcome
+## Outcome
 A clean and reliable dataset was produced, providing a solid foundation for meaningful analysis and decision-making.
-Project 2: Exploratory Data Analysis (EDA)
-Description
+## Project 2: Exploratory Data Analysis (EDA)
+## Description
 This project focused on exploring and understanding the dataset through descriptive statistics and visual analysis to uncover trends, patterns, and insights.
-Tasks Performed
+## Tasks Performed
 Performed data profiling and summary statistics
 Analyzed distributions and data trends
 Identified outliers and anomalies
 Examined relationships between variables
 Created charts and visualizations
 Generated business insights from the data
-Tools Used
+## Tools Used
 Microsoft Excel
-Outcome
+## Outcome
 Key insights and patterns were identified, helping to better understand the dataset and support data-driven decisions.
-Project 3: SQL Data Analysis
-Description
+## Project 3: SQL Data Analysis
+## Description
 This project involved using SQL queries to extract, manipulate, and analyze data stored in a relational database.
-Tasks Performed
+## Tasks Performed
 Retrieved data using SQL queries
 Filtered and sorted records
 Performed aggregations and calculations
 Used GROUP BY and ORDER BY operations
 Applied JOINs to combine multiple tables
 Generated analytical reports and insights
-Tools Used
+## Tools Used
 SQL
-Outcome
+## Outcome
 Meaningful insights were derived from the database through efficient querying and analytical techniques.
-Skills Demonstrated
+## Skills Demonstrated
 Data Cleaning and Preparation
 Data Validation
 Exploratory Data Analysis (EDA)
