@@ -52,5 +52,7 @@ Spreadsheet Analysis
 SQL Querying
 Data Manipulation
 Analytical Thinking
+# Internship Program
+Completed as part of the DecodeLabs Data Analytics Internship Program, with a focus on developing practical skills in data cleaning, analysis, visualization, and database querying.
 Problem Solving
 Repository Structure
