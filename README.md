@@ -1,10 +1,10 @@
-## DecodeLabs Data Analytics Internship Projects
-# Overview
+# DecodeLabs Data Analytics Internship Projects
+## Overview
 This repository contains projects completed during the DecodeLabs Data Analytics Internship Program. The projects demonstrate essential data analytics skills, progressing from data cleaning and preparation to exploratory data analysis and SQL-based data analysis.
-Project 1: Data Cleaning and Preparation in Excel
-Description
+## Project 1: Data Cleaning and Preparation in Excel
+## Description
 The objective of this project was to transform a raw dataset into a clean, structured, and analysis-ready format using Microsoft Excel.
-Tasks Performed
+## Tasks Performed
 Removed duplicate records
 Handled missing and incomplete data
 Corrected data inconsistencies
